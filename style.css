@@ -1,0 +1,13 @@
+body{
+    margin: 5% 10% 10% 10%;
+}
+.computer img{
+    opacity: 0.0;
+}
+img{
+    width: 10%;
+}
+.separator{
+    background-color: red;
+    height: 20px;
+}
